@@ -1,0 +1,14 @@
+{
+  "name": "dadbot",
+  "version": "1.0.0",
+  "description": "A Telegram Dad Joke Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Max Diamond",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  }
+}
